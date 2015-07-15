@@ -1,9 +1,8 @@
 # generator-gulp-webapp
 
-The Yeoman gulp web app generator with babel transpiling on the client-side.
+The Yeoman generator, generator-gulp-webapp, with babel transpiling on the client-side.
 
 This allows you to write ECMAScript 6 in *"app/scripts/es6"* and have it automagically transpile to *"app/scripts/js"*.
-
 
 # Getting Started
 
